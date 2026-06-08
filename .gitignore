@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Secrets — NEVER commit these
+.env
+
+# Log files (optional: you may want to commit sample logs)
+# trading_bot.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
